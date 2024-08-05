@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sultan</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AmangeldiyevSultan&label=Profile%20views&color=0e75b6&style=flat" alt="AmangeldiyevSultan" /> </p>
 
 - :dizzy: interested in mobile and backend development
 - 🔭 I’m currently working on All'n application using Flutter
